@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+.vscode/
